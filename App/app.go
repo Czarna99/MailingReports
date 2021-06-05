@@ -1,6 +1,6 @@
 package app
 
-import countries "MailingReports/MailingReports/Resources/Countries/Austria"
+import countries "MailingReports/MailingReports/Resources/Countries"
 
 func ApplicationStart() {
 	countries.Austria()
